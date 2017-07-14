@@ -1,0 +1,41 @@
+body {
+    background:url("https://ak3.picdn.net/shutterstock/videos/2284634/thumb/1.jpg");
+}
+h1 {
+    text-align:center;
+    font-size:30px;
+    color:#f2f1d7;
+}
+h2 {
+    text-align:center;
+    color:white;
+}
+p {
+    color:white;
+}
+.section1 {
+    background-color: beige;
+    font-size:20px;
+    text-align: center;
+    border:7px solid;
+    border-color:black;
+    margin:auto;
+    padding:0px;
+}
+a {
+    text-align:justify;
+    padding:10px;
+}
+.section2 {
+    text-align:center;
+    
+}
+li {
+    color:white;
+    text-align:justify;
+}
+img {
+    max-height:20%;
+    max-width:20%;
+    margin:1px 1px 1px 1px;
+}
